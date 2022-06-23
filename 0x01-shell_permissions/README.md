@@ -1,1 +1,1 @@
-Command that adds execute permission to the owner, the group owner, and read permission to other users, to the file hello
+Command that adds execution permission to the owner, the group owner and the other users, to the file hello

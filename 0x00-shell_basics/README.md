@@ -1,1 +1,1 @@
-What’s in there
+change working directory to home directory

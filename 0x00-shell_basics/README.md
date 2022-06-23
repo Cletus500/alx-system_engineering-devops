@@ -1,1 +1,1 @@
-Delete file
+Bye bye My first directory
